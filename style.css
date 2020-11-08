@@ -1,0 +1,40 @@
+body{
+    background-color:#e8ded2 ;
+}
+
+#interface{
+    position: absolute;
+    top: 30%;
+    left: 25%;
+    width: 700px;
+    height: 400px;
+    font-family:'Monstserrat';
+    border: 4px solid #5eaaa8;
+    border-radius: 25px;
+    background-color: #a3d2ca;
+    
+}
+
+form{
+  max-width: 960px;
+  border-radius: 2px;
+  padding: 50px 115px 59px 115px;
+  position: relative;
+}
+
+#heading{
+  display: block;
+  width: 100%;
+  font-family: Raleway-Black;
+  font-size: 20px;
+  color: #333333;
+  line-height: 1.2;
+  text-transform: uppercase;
+  text-align: center;
+  padding-bottom: 32px;
+    font-weight: bold;
+}
+
+  #content{
+   margin-left: 20%;
+}
